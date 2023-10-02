@@ -1,0 +1,38 @@
+.face {
+    height: 400px;
+    width: 400px;
+    background-color: #ffae00d2;
+    border-radius: 50%;
+    position: static;
+}
+
+#leye{
+    height: 90px;
+    width: 90px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    top: 82px;
+    left: 82px;
+}
+#reye{
+    height: 90px;
+    width: 90px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    top: 82px;
+    left: 250px;
+}
+
+#smile{
+    height: 90px;
+    width: 250px;
+    background-color: rgb(160, 33, 33);
+    border-radius: 0 0 50px 50px;
+    position: absolute;
+    top: 250px;
+    left: 82px;
+}
